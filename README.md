@@ -34,19 +34,19 @@ Bu proje, **Emgu CV** kütüphanesi kullanılarak geliştirilmiş bir yüz tanı
 
 ![Ana Ekran](screenshots/2.jpg)
 
-**Öğrenci Kayıt**
+**Öğrenci Kayıt:**
 
 ![Öğrenci Kayıt](screenshots/3.jpg)
 
-**Kayıt Kontrol**
+**Kayıt Kontrol:**
 
 ![Kayıt Kontrol](screenshots/4.jpg)
 
-**Yoklama**
+**Yoklama:**
 
 ![Yoklama](screenshots/5.jpg)
 
-**Yoklama Raporu**
+**Yoklama Raporu:**
 
 ![Yoklama Raporu](screenshots/6.jpg)
 
