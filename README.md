@@ -24,6 +24,36 @@ Bu proje, **Emgu CV** kütüphanesi kullanılarak geliştirilmiş bir yüz tanı
 1. **Uygulamayı Çalıştırın**
    - `bin` klasöründe bulunan `Dekosis - KYS.exe` dosyasını çift tıklayarak çalıştırabilirsiniz.
 
+## 🖼️ Ekran Görüntüleri
+
+**Giriş Paneli:**
+
+![Giriş Paneli](screenshots/1.jpg)
+
+**Ana Ekran:**
+
+![Ana Ekran](screenshots/2.jpg)
+
+**Öğrenci Kayıt**
+
+![Öğrenci Kayıt](screenshots/3.jpg)
+
+**Kayıt Kontrol**
+
+![Kayıt Kontrol](screenshots/4.jpg)
+
+**Yoklama**
+
+![Yoklama](screenshots/5.jpg)
+
+**Yoklama Raporu**
+
+![Yoklama Raporu](screenshots/6.jpg)
+
+------------------------------------------------------------------------
+
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
+
+------------------------------------------------------------------------
